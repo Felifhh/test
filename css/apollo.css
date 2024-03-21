@@ -1,0 +1,16 @@
+#contenedorPerror {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.abajo_del_perro {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: darkcyan;
+    
+
+}
